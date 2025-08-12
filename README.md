@@ -95,3 +95,8 @@ We welcome contributions from the community! Please read our contribution guidel
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contract Details: 0xa4647D0289c08E0aEB6E730d21404285Ddb44a92
+
+<img width="1591" height="766" alt="{AC50DBDE-9506-49C7-BFE5-BA98CC3BC0AC}" src="https://github.com/user-attachments/assets/10e70791-6f1c-4edd-90ed-e5415f9b1c3f" />
+
